@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#000000"/>
+
+  <!-- thin scroll-style border -->
+  <line x1="40" y1="20" x2="1160" y2="20" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+  <line x1="40" y1="280" x2="1160" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+  <line x1="40" y1="14" x2="40" y2="26" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+  <line x1="1160" y1="14" x2="1160" y2="26" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+  <line x1="40" y1="274" x2="40" y2="286" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+  <line x1="1160" y1="274" x2="1160" y2="286" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+
+  <!-- faint torii gate silhouette, right side -->
+  <g opacity="0.14" stroke="#ffffff" stroke-width="4" fill="none">
+    <line x1="960" y1="70" x2="960" y2="240"/>
+    <line x1="1080" y1="70" x2="1080" y2="240"/>
+    <line x1="940" y1="70" x2="1100" y2="70"/>
+    <line x1="930" y1="95" x2="1110" y2="95"/>
+  </g>
+
+  <!-- seal / hanko mark, top right -->
+  <g transform="translate(1110,34)" opacity="0.8">
+    <rect x="-22" y="-16" width="44" height="32" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <text x="0" y="8" text-anchor="middle" font-family="'Hiragino Mincho ProN','Yu Mincho',serif" font-size="20" fill="#ffffff">刃</text>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="10" fill="#ffffff">UATLASZ</text>
+
+  <!-- kanji subtitle -->
+  <text x="600" y="205" text-anchor="middle" font-family="'Hiragino Mincho ProN','Yu Mincho',serif" font-size="24" letter-spacing="10" fill="#999999">見えざる刃、静かなる心</text>
+</svg>
