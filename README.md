@@ -6,10 +6,6 @@
 
 <br/><br/>
 
-〜　　〜　　〜　　〜　　〜　　〜　　〜
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/uatlasz/uatlasz/master/assets/footer.svg" width="100%"/>
 
 </div>
