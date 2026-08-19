@@ -1,10 +1,8 @@
-<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="140" fill="#000000"/>
-  <line x1="40" y1="20" x2="1160" y2="20" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
-  <line x1="40" y1="14" x2="40" y2="26" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
-  <line x1="1160" y1="14" x2="1160" y2="26" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="120" rx="24" fill="#000000"/>
+  <rect x="1.5" y="1.5" width="1197" height="117" rx="22.5" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.5"/>
 
-  <g transform="translate(600,80)" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.85">
+  <g transform="translate(600,66)" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.85">
     <line x1="-40" y1="-25" x2="-40" y2="30"/>
     <line x1="40" y1="-25" x2="40" y2="30"/>
     <line x1="-52" y1="-25" x2="52" y2="-25"/>
