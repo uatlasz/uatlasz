@@ -9,7 +9,7 @@
       <path d="M14,28 A28,28 0 0,1 42,0 A28,28 0 0,1 70,28" fill="none" stroke="#ffffff" stroke-width="1"/>
     </pattern>
     <clipPath id="roundedClip">
-      <rect x="0" y="0" width="1200" height="260" rx="24"/>
+      <rect x="0" y="0" width="1200" height="260" rx="48"/>
     </clipPath>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2.2" result="blur"/>
@@ -24,8 +24,6 @@
     <rect width="1200" height="260" fill="url(#bg)"/>
     <rect y="222" width="1200" height="38" fill="url(#seigaiha)" opacity="0.10"/>
   </g>
-
-  <rect x="1.5" y="1.5" width="1197" height="257" rx="22.5" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.5"/>
 
   <!-- seal / hanko mark, top right -->
   <g transform="translate(1130,44)" opacity="0.85">
